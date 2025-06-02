@@ -1,0 +1,43 @@
+.container{
+  color:red;
+  background-color : white;
+  font-size : 70px;
+  font-weight : 500;
+  
+
+}
+
+.padding span{
+  padding: 50px;
+  
+}
+.primary{
+  padding:50px;
+  margin:25px;
+}
+.hw{
+  height:100px;
+  width:300px;
+}
+.parent{
+  background-color: white;
+  height: 500px;
+  width: 500px;
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+}
+.child1{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+.child2{
+  background-color: grey;
+  height: 100px;
+  width: 100px;
+}
+
+
+
